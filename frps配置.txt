@@ -1,0 +1,12 @@
+[common]
+bind_addr = 0.0.0.0
+bind_port = 7000
+dashboard_addr = 0.0.0.0
+dashboard_port = 7500
+dashboard_user = zia123
+dashboard_pwd = zia010629
+vhost_http_port = 80
+vhost_https_port = 443
+max_pool_count = 6
+subdomain_host = ziassrr.tk（根据实际用）
+token = 123456789

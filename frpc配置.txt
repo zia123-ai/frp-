@@ -1,0 +1,13 @@
+[common]
+server_addr = ip或者域名
+server_port = 7000
+log_file = ./frpc.log
+log_level = info
+log_max_days = 3
+token = 123456789
+
+[web1]
+type = http
+local_ip = 127.0.0.1
+local_port = 80
+subdomain = t1 #或者custom_domains = web02.yourdomain.com
